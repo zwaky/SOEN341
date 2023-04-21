@@ -1,0 +1,30 @@
+User experience of the website:
+
+
+Employer:
+An employer creates an account. He can then add a job posting and view other postings. He can reply to candidates who apply to his postings. When he desires, he can remove his own postings.
+
+Candidate:
+A candidate creates an account. He can upload his resume, browse current job postings and apply for them.
+
+Admin:
+The admin can create an account. He can view, edit or remove any job posting, profiles or messages.
+
+Messaging: 
+Once an initial message between two parties has been sent, it creates a message box where the two parties can quickly communicate and view previous messages.
+
+
+User stories
+
+Account creation:
+User is given the option to login or create an account. User chooses create account. User can create a employer account or a candidate account. Once an account is created,
+user can access the site with a username and password.
+
+Employer account:
+User can add job postings and view their other postings. User can see the candidates that apply for his postings and their profiles. User can edit or remove his postings.
+
+Candidate account:
+User can see their profile and edit it. User can browse job postings and apply for them.
+
+Admin account:
+Admin can view all job postings and candidate profiles. Admin can remove job postings and block/unblock employer or candidate accounts.
